@@ -84,7 +84,7 @@ const config = {
           {
             title: 'Wiki',
             items: [
-              { label: 'Tutorial', to: '/docs/intro', },
+              { label: 'Home', to: '/', },
             ],
           },
           {
