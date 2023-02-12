@@ -1,0 +1,12 @@
+# Messaging
+- [Problems of crypto native messaging](https://medium.com/lightspeed-venture-partners/the-future-of-crypto-native-consumer-products-part-2-messaging-c34e592e2c84)
+- [Notifi.xyz](https://www.notifi.xyz/) — pure on-chain messages (expensive)
+- Integrateable widget:
+	- [WalletConnect chat](https://walletconnect.com/products)
+	- [dm3](https://dm3.network/)
+	- [WalletChat](https://www.walletchat.fun/)
+- email:
+	- [skiff](https://skiff.com/) — email, storage, collaborative calendar and notes
+	- [metamail.ink](https://metamail.ink/)
+	- [mail3.me](https://mail3.me/)
+- [nftychat](https://nftychat.xyz/) — Discord clone

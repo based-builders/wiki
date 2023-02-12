@@ -8,10 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://based.builders',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -38,6 +37,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -61,73 +61,47 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      docs: { sidebar: { hideable: true, autoCollapseCategories: true, }, },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'based.builders',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'based.builders logo',
+          //src: 'img/logo.svg',
+          src: 'img/romanthing.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          { type: 'docSidebar', sidebarId: 'defiSidebar', position: 'left', label: '💸 DeFi', },
+          { type: 'docSidebar', sidebarId: 'web3Sidebar', position: 'left', label: 'Web3', },
+          { type: 'docSidebar', sidebarId: 'web3Sidebar', position: 'left', label: 'AI Tools', },
+          { type: 'doc', docId: 'Special-Thanks', position: 'right', label: 'Donate', },
+          { to: '/blog', label: 'Blog', position: 'right' },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Wiki',
             items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
+              { label: 'Tutorial', to: '/docs/intro', },
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              { label: 'Telegram News Channel', href: 'https://t.me/basedbuilders', },
+              { label: 'Telegram Chat', href: 'https://t.me/basedbuilders_chat', },
             ],
           },
           {
-            title: 'More',
+            title: 'Blog',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              { label: 'Articles', to: '/blog', },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        //copyright: `💛`,
       },
       prism: {
         theme: lightCodeTheme,
