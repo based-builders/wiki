@@ -45,6 +45,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: { respectPrefersColorScheme: true, },
       docs: { sidebar: { hideable: true, autoCollapseCategories: true, }, },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
