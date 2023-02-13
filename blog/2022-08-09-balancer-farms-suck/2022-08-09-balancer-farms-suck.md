@@ -3,7 +3,7 @@ slug: balancer-farms-suck
 title: Balancer Farms Suck (But We Fixed Them)
 authors: [peeledkot]
 tags: [balancer]
-image: farm-fresh-liquidity.jpg
+image: https://wiki-7ff.pages.dev/assets/images/farm-fresh-liquidity-4b0b04a715b0f0400b333f51f1ac5dc5.jpg
 ---
 
 ![farm-fresh-liquidity](farm-fresh-liquidity.jpg)
