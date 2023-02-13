@@ -4,11 +4,9 @@ title: Balancer Farms Suck (But We Fixed Them)
 authors: [peeledkot]
 tags: [balancer]
 image: https://wiki-7ff.pages.dev/assets/images/farm-fresh-liquidity-4b0b04a715b0f0400b333f51f1ac5dc5.jpg
-blogTitle: Balancer Farms Suck (But We Fixed Them)
-blogDescription: If Balancer’s AMM model is so good, why is it lagging so far behind competitors?
 ---
 
-![farm-fresh-liquidity](farm-fresh-liquidity.jpg)
+![If Balancer’s AMM model is so good, why is it lagging so far behind competitors?](farm-fresh-liquidity.jpg)
 
 The Weighted Constant Product AMM pioneered by [Balancer](https://balancer.fi/) is arguably the best AMM model there is. It can do everything Uniswap v2 and Curve can do, and so much more, with its asymmetric and multiple token LPs.
 
