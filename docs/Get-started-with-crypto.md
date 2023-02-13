@@ -1,3 +1,5 @@
+# 🎓 Get started with crypto
+
 # DeFi
 - [Guide To Decentralized Finance](https://finematics.com/guide-to-decentralized-finance/) by Finematics
 - [DeFi 101](https://www.youtube.com/playlist?list=PLaDcID4s1KronHMKojfjwiHL0DdQEPDcq) by The Defiant

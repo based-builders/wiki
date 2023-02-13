@@ -1,3 +1,5 @@
+# ➡️ Futures
+
 ## Perpetual
 - [dYdX](https://dydx.exchange/)
 - [GMX](https://gmx.io/)

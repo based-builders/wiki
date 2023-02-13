@@ -1,3 +1,5 @@
+# 🌻 Community Building
+
 # Communities
 - [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
 - [Brick By Brick: A free guide to building awesome communities](http://www.communitybuildingguide.com/)
@@ -56,6 +58,7 @@ Communities centered around holding a specific token are a lot like sports fans.
 
 ---
 
-![[web3 onboarding practices.png]]
-![[dao activities.png]]
+![web3 onboarding practices](imgs/web3-onboarding-practices.png)
+![dao activities](imgs/dao-activities.png)
+
 taken from [How to DAO 2021: Onboarding as Wayfinding](https://creators.mirror.xyz/ggSQQlTSGqJ2_U7HVNjm4f3s98on5EfUyR9rW_z3fw0)

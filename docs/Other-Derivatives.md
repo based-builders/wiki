@@ -1,3 +1,5 @@
+# 💎 Other Derivatives
+
 # Resources
 - [0xperp/defi-derivatives](https://github.com/0xperp/defi-derivatives) — Awesome list of DeFi derivatives
 - [The Daily Funding](https://t.me/TheDailyFunding) — News aboute DeFi derivatives

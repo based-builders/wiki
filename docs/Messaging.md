@@ -1,4 +1,4 @@
-# Messaging
+# ✉️ Messaging
 - [Problems of crypto native messaging](https://medium.com/lightspeed-venture-partners/the-future-of-crypto-native-consumer-products-part-2-messaging-c34e592e2c84)
 - [Notifi.xyz](https://www.notifi.xyz/) — pure on-chain messages (expensive)
 - Integrateable widget:

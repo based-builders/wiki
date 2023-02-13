@@ -6,26 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'based.builders',
+  tagline: 'Wiki about stuff',
   favicon: 'img/favicon.png',
 
   url: 'https://based.builders',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -39,17 +29,11 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/based-builders/wiki/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl: 'https://github.com/based-builders/wiki/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -71,9 +55,22 @@ const config = {
           src: 'img/romanthing.png',
         },
         items: [
-          { type: 'docSidebar', sidebarId: 'defiSidebar', position: 'left', label: '💸 DeFi', },
-          { type: 'docSidebar', sidebarId: 'web3Sidebar', position: 'left', label: 'Web3', },
-          { type: 'docSidebar', sidebarId: 'web3Sidebar', position: 'left', label: 'AI Tools', },
+          { type: 'html', position: 'left', value: '///', },
+          { type: 'docSidebar', sidebarId: 'defiSidebar', position: 'left', label: 'DeFi', },
+          { type: 'docSidebar', sidebarId: 'daoSidebar', position: 'left', label: 'DAO', },
+          { type: 'docSidebar', sidebarId: 'nftSidebar', position: 'left', label: 'NFT', },
+          { type: 'docSidebar', sidebarId: 'metaverseSidebar', position: 'left', label: 'Metaverse', },
+          { type: 'html', position: 'left', value: '///', },
+          { type: 'docSidebar', sidebarId: 'psyopsSidebar', position: 'left', label: 'Psyops', },
+          { type: 'docSidebar', sidebarId: 'analyticsSidebar', position: 'left', label: 'Analytics', },
+          { type: 'docSidebar', sidebarId: 'devSidebar', position: 'left', label: 'Dev', },
+          { type: 'docSidebar', sidebarId: 'jobsSidebar', position: 'left', label: 'Jobs', },
+          { type: 'html', position: 'left', value: '///', },
+          { type: 'docSidebar', sidebarId: 'opsecSidebar', position: 'left', label: 'Privacy', },
+          { type: 'docSidebar', sidebarId: 'aiSidebar', position: 'left', label: 'AI Tools', },
+          { type: 'docSidebar', sidebarId: 'piracySidebar', position: 'left', label: 'Piracy', },
+          { type: 'docSidebar', sidebarId: 'osintSidebar', position: 'left', label: 'OSINT', },
+          { type: 'docSidebar', sidebarId: 'useSidebar', position: 'right', label: 'Use crypto', },
           { type: 'doc', docId: 'Special-Thanks', position: 'right', label: 'Donate', },
           { to: '/blog', label: 'Blog', position: 'right' },
         ],

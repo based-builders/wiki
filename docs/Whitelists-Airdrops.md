@@ -1,3 +1,4 @@
+# 🪂 Whitelists, Airdrops
 
 # Tools
 - [Premint](https://www.premint.xyz/)

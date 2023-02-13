@@ -1,4 +1,6 @@
-Also see [[🧦 Sock Puppeting]] for non-crypto identity techniques.
+# 👁 Identity
+
+Also see [🧦 Sock Puppeting](Sock-Puppeting) for non-crypto identity techniques.
 
 [Digital Identity Landscape](https://twitter.com/web3_Studios/status/1562036194304745475)
 [Web3 Identity Stack](https://twitter.com/nichanank/status/1600484891426177026)
@@ -10,7 +12,7 @@ Also see [[🧦 Sock Puppeting]] for non-crypto identity techniques.
 - [Mapping the Web3 Identity Landscape](https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c)
 - [Soulbound](https://vitalik.ca/general/2022/01/26/soulbound.html) by Vitalik
 	- [Soulbound Token Use-cases in DeFi](https://ignasdefi.notion.site/25b0b0b1dbd841e3a26db17168d89306?v=5c52fde070374d5285070d2c2b0ba9db)
-	- also see [[👥 Sybil Attacks, KYC#ZK Badges / ZK SBT|ZK Badges]]
+	- also see [ZK badges](Sybil-Attacks-KYC#zk-badges--zk-sbt)
 - see [🏷️ Naming](Naming)
 	- [address dataset](https://twitter.com/NiftyMuseum/status/1594957396786700288)
 

@@ -1,3 +1,4 @@
+# 🧭 DeFi Metrics
 
 # Trending Contracts
 - [DefiLlama trending](https://defillama.com/trending-contracts)

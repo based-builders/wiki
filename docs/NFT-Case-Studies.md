@@ -1,3 +1,5 @@
+# 🖼 NFT Case Studies
+
 # Mechanics
 
 - [Confidential NFTs](https://www.youtube.com/watch?v=uDYpbQ7YJw4)

@@ -1,3 +1,5 @@
+# 🚿 Money Streaming
+
 Most often used to pay salaries and grants.
 
 - [LlamaPay](https://llamapay.io/) ([docs](https://docs.llamapay.io/))

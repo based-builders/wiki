@@ -1,4 +1,4 @@
-# Gambling
+# 🎰 Gambling, Prediction Markets
 
 ## Psychology
 - [Hooked: how slot machines are designed to be addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive)

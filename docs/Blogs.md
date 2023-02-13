@@ -1,3 +1,4 @@
+# Blogs
 
 - [Medium](https://medium.com/)
 - [Mirror](https://mirror.xyz/)

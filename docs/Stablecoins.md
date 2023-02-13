@@ -1,3 +1,5 @@
+# 💲 Stablecoins
+
 Opinions:
 - [Stablecoin comparisons](https://twitter.com/deathereum/status/1533733453761421312)
 - [Stablecoins are not created equal.](https://twitter.com/thedefiedge/status/1527307665088516096)

@@ -1,3 +1,4 @@
+# 📑 Options
 
 # Options basics
 - [straddles](https://www.investopedia.com/terms/s/straddle.asp) are like uniswap v2 LP

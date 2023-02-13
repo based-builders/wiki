@@ -1,3 +1,5 @@
+# 💡 Product Management
+
 [Learn from my mistakes](https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468) by Andre Cronje
 
 [NFT project lifecycle](https://web.archive.org/web/20220720223750/https://mirror.xyz/iwritecopy.eth/FJM-0JiQJIr-4xX43FvU8Ep17HCoY5B5jCnG3weJuco)

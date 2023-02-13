@@ -1,4 +1,6 @@
-also see [[🌵 On-Chain Data]]
+# 🔎 OSINT
+
+also see [🌵 On-Chain Data](On-Chain-Data)
 
 # Tutorials
 - [Open-Source Intelligence (OSINT) in 5 Hours](https://www.youtube.com/watch?v=qwA6MmbeGNo) video

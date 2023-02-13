@@ -1,3 +1,5 @@
+# 😵 Memetics, Psyops
+
 Articles:
 - [Tokens in the attention economy](https://cobie.substack.com/p/tokens-in-the-attention-economy) ⭐️ by cobie
 - [Own your attention back](https://0xrusowsky.substack.com/p/own-your-attention)

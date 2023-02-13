@@ -1,4 +1,4 @@
-
+# 🎭 Brands, Creator Economy
 https://thedailyape.notion.site/Creator-Economy-d5ed48c90de247498a77f8743b58fde4
 
 # Brands

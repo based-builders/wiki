@@ -1,3 +1,4 @@
+# 📦 Storage
 
 [Introduction to Decentralized File Storage](https://defieducation.substack.com/p/introduction-to-decentralized-file)
 

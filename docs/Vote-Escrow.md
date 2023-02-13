@@ -1,3 +1,4 @@
+# ⏳ Vote Escrow (ve-)
 
 - [WTF are veTokens](https://newsletter.banklesshq.com/p/wtf-are-vetokens)
 - [veMarketCap](https://vemarketcap.com/)

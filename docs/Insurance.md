@@ -1,3 +1,4 @@
+# 🛡️ Insurance
 
 Analytics:
 - [Insurance TVL Rankings](https://defillama.com/protocols/Insurance)

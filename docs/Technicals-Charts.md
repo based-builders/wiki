@@ -1,4 +1,4 @@
-# Technicals, charts
+# 📈 Technicals, Charts
 
 # Charts
 - CEX charting:

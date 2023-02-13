@@ -1,3 +1,4 @@
+# 🍂 Philosophy
 
 - [Crypto-Current: Bitcoin and Philosophy](https://etscrivner.github.io/cryptocurrent/) by Nick Land
 - [Web3/Crypto: Why Bother?](https://continuations.com/post/671863718643105792/web3crypto-why-bother)

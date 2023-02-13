@@ -1,3 +1,4 @@
+# 🛢️ Synthetics
 
 # Synthetic assets:
 > Like [Stablecoins](Stablecoins) but many price pegs at once

@@ -1,5 +1,6 @@
+# Trader Joe
 LB concentrates liquidity into assigned specific price bins, but LPs can deposit liquidity into multiple bins. End result: better prices and lower slippage.
-![[traderjoe liquidity book.png]]
+![trader joe liquidity book](imgs/traderjoe-liquidity-book.png)
 
 Liquidity book
 https://twitter.com/traderjoe_xyz/status/1561804731412013056

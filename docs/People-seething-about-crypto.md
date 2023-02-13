@@ -1,4 +1,4 @@
-# People seething about crypto
+# 🤓 People seething about crypto
 Also some other just funny articles.
 
 Most of this is not worth reading, but can be amusing.

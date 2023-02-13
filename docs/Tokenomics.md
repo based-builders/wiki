@@ -1,3 +1,5 @@
+# ⚖️ Tokenomics
+
 - [Tokenomics Blueprint](https://docsend.com/view/cah5kbddh7r52pi6/) ⭐️
 - [Tokenomics — A Business Guide to Token Usage, Utility and Value](http://startupmanagement.org/2017/06/10/tokenomics-a-business-guide-to-token-usage-utility-and-value/)
 - [What failed DeFi protocols have in common](https://twitter.com/magikinvestxyz/status/1541849767130542080)

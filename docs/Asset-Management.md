@@ -1,4 +1,4 @@
-
+# 🙌 Asset Management
 https://thedailyape.notion.site/Asset-Management-f559517f359d46f69f1066a4e8cb2ded
 
 # Active Management

@@ -1,3 +1,4 @@
+# Balancer
 Official:
 - [Website](https://balancer.fi)
 - [Balancer Whitepaper](https://balancer.fi/whitepaper.pdf)

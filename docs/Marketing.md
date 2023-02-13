@@ -1,3 +1,5 @@
+# 🚀 Marketing
+
 - [Simplicity is important in web3 marketing](https://mirror.xyz/0x32aB1EfD78472eD348944745ea3867a1ef4a71B8/lznO0d9tb7xJDfSmFg-4Ezq885Sduf2N7A_3uzOM7yA)
 
 - [Marketing in bear market](https://wrongalot.substack.com/p/marketing-in-the-bera-and-beyond)

@@ -1,4 +1,4 @@
-
+# 💼 Jobs
 - [Working in Web3: The Handbook](https://web3.smsunarto.com/) ⭐️
 
 # Job boards

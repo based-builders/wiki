@@ -1,3 +1,5 @@
+# 💳 CEX
+
 ### Research
 [CEX Transparency dashboard on Defillama](http://defillama.com/cexs)
 

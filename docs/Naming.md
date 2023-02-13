@@ -1,6 +1,7 @@
+# 🏷️ Naming
 
 For traditional registrars who accept crypto,
-see [[💛 Crypto-friendly products and services]]
+see [💛 Crypto-friendly products and services](Crypto-friendly-products-and-services)
 
 # Overview
 - [The Difinitive Guide To Crypto Domains](https://tokenterminal.substack.com/p/the-definitive-guide-to-crypto-domain)

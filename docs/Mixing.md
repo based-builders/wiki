@@ -1,7 +1,9 @@
+# 🌪️ Mixing
+
 Resources:
 - [awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
 - https://thedailyape.notion.site/Privacy-be4c19be6ef24caf9317b6c79a92ae12
-- also see [[🔗 Primitives, ZKP, FHE, MPC#Zero-Knowledge Proofs|Zero-Knowledge Proofs]]
+- also see [Zero-Knowledge Proofs](Primitives-ZKP-FHE-MPC)
 
 ---
 

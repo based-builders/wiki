@@ -1,3 +1,5 @@
+# 🗝️ Token-gated Access
+
 - [NFT memberships for creators](https://future.com/a-practical-guide-to-nft-memberships-for-creators/)
 - [Using RainbowKit and wagmi to check that a wallet owns a specific NFT](https://blog.0x3.studio/a-very-simple-to-offer-a-connect-wallet-option-for-your-website-thanks-to-rainbowkit/)
 ---

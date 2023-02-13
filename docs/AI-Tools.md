@@ -1,11 +1,11 @@
+import DocCardList from '@theme/DocCardList';
+
+# 🎨 AI Tools
+
+<DocCardList />
 
 work-in-progress, updated regularly
 
-- [Image Wrangling](Image-Wrangling) (text2img, img2img, ...)
-- [Voice Wrangling](Voice-Wrangling) (Text-to-Speech, Automatic Subtitles, ...)
-- [Text Wrangling](Text-Wrangling) (Text Generation, Summarization, ...)
-- [Video Wrangling](Video-Wrangling) (Inpainting, Interpolation, ...)
-- [3D Wrangling](3D-Wrangling) (text-to-3D, NERF, ...)
 ---
 
 More:

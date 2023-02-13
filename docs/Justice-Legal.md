@@ -1,4 +1,4 @@
-
+# 👨‍⚖️ Justice, Legal
 # Licenses
 
 [TULSA](https://blog.0x3.studio/tulsa-a-new-software-licensing-model-for-web3/) — Token-UnLockable Software Application

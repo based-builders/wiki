@@ -1,3 +1,4 @@
+# 🧩 NFT Marketplace
 
 [NFT Marketplace Comparison Dashboard](https://dune.com/jhackworth/nftmarketplace)
 

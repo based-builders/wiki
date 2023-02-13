@@ -1,3 +1,4 @@
+# DAO Communication
 
 - [Discord security](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
 

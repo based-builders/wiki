@@ -1,3 +1,5 @@
+# 💱 Economics
+
 - [awesome-economics](https://github.com/antontarasenko/awesome-economics)
 - [A Note On Charity Through Marginal Price Discrimination](https://www.vitalik.ca/general/2017/03/11/a_note_on_charity.html) by Vitalik Buterin
 - [Mirror Central Planning as Overfitting](https://www.vitalik.ca/general/2018/11/25/central_planning.html) by Vitalik Buterin

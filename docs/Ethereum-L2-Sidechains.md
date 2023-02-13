@@ -1,3 +1,5 @@
+# 🔷 Ethereum, L2, Sidechains
+
 - [Inevitable Ethereum](https://inevitableeth.com/) ⭐️
 - [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 - [Ethereum guides and resources](https://ethereum.org/en/learn/) ⭐️

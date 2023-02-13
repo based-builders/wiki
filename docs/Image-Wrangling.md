@@ -1,3 +1,6 @@
+# Image Wrangling
+
+text2img, img2img, ...
 
 # Generation
 - [Stable Diffusion UI by AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ([wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki))

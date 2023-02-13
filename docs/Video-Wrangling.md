@@ -1,3 +1,7 @@
+# Video Wrangling
+
+Inpainting, Interpolation, ...
+
 # General Apps
 - [RunwayML](https://runwayml.com/) (Remove object, Motion tracking)
 - Topaz Video Enchance AI (Upscale, Increase FPS) [^1]

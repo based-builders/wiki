@@ -1,3 +1,4 @@
+# 💛 Crypto-friendly products and services
 
 ## Infrastructure
 - Domains: [Namecheap](https://www.namecheap.com/) (not anon) — BTC + Altcoins

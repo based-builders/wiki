@@ -1,3 +1,4 @@
+# 🌾 Farming
 
 Articles:
 - [Stablecoin Farms](https://marketneutralish.substack.com/p/stable-farms) ([shorter thread](https://twitter.com/1chioku/status/1603262023898259456))

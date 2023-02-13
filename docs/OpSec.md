@@ -1,8 +1,8 @@
+import DocCardList from '@theme/DocCardList';
 
-[🌐 Internet Security and Privacy](Internet-Security-and-Privacy)
-[🔑 Crypto Holder Security](Crypto-Holder-Security)
-[🚨 DeFi Degen Tools](DeFi-Degen-Tools)
-[🧦 Sock Puppeting](Sock-Puppeting)
+# 👁️‍🗨️ OpSec
+
+<DocCardList />
 
 # Privacy Advocacy
 - [Why do I care the open web is dying?](https://insightbrowser.com/blog/open-web-dying-why-care)

@@ -1,3 +1,4 @@
+# 🤑 Bribes
 also see [🗳️ Governance](Governance)
 
 Articles:

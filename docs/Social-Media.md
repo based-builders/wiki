@@ -1,3 +1,4 @@
+# 👄 Social Media
 
 - Do the [POSSE](https://indieweb.org/POSSE)
 
@@ -19,6 +20,7 @@
 - [RSS3](https://rss3.io/) ([Blog](https://blog.rss3.io/))
 - [Push Protocol](https://push.org/) ([Twitter](https://twitter.com/pushprotocol))  
 	- [Intro to Push Protocol](https://ethglobal.com/guides/intro-to-push-protocol-8wi9q)
+- [Yup.io](https://yup.io)
 - [context.app](https://context.app/)
 
 # Live streaming

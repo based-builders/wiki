@@ -1,4 +1,5 @@
-# Gaming
+# 🕹️ Gaming
+
 [gaming list by the daily ape](https://thedailyape.notion.site/Gaming-2fb0c8cd5f2a497db3b118011c720052)
 
 # Fully on-chain games

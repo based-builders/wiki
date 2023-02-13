@@ -1,4 +1,4 @@
-
+# 🎲 NFT Art Generator, Provenance
 - [Bueno](https://www.bueno.art/)
 	- [Create a PFP NFT collection in less than one hour with Bueno](https://blog.0x3.studio/create-a-pfp-nft-collection-in-less-than-one-hour-with-bueno/)
 - hashlips

@@ -1,3 +1,5 @@
+# 📊 Fundamentals, DYOR
+
 # Fundamental analysis
 
 # DYOR Frameworks

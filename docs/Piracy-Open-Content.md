@@ -1,5 +1,4 @@
-> [!WARNING]
-> Remember to use a VPN and other security measures
+# 🏴‍☠️ Piracy, Open Content
 
 # Piracy
 - Other guides:

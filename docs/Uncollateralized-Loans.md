@@ -1,3 +1,5 @@
+# 🍀 Uncollateralized Loans
+
 [Uncollateralized lending dashboard on DefiLlama](https://defillama.com/protocols/uncollateralized%20lending)
 
 [Research on Credit Rating by 3six9](https://2688442826-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FdfX5W2ttoTF0UsavgZhT%2Fuploads%2FmATbNHLM1PKBtIEY6mqt%2F3six9%20Cognitio%20Research_%20Credit%20Rating.pdf?alt=media&token=fd5a8ae4-304b-416c-8f8d-40638bcc6298)

@@ -1,3 +1,5 @@
+# 🗺️ DAOscape
+
 - [A Primer on DAOs](https://learn.zapper.fi/articles/a-primer-on-daos)
 - [DAO Landscape](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw)
 

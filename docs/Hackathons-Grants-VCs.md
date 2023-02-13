@@ -1,3 +1,5 @@
+# 🏆 Hackathons, Grants, VCs
+
 ### Hackathons
 - [Ethglobal](https://ethglobal.com/events)
 - [Devpost](https://devpost.com/) filter by "blockchain" category

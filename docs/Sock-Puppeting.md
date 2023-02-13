@@ -1,3 +1,5 @@
+# 🧦 Sock Puppeting
+
 Also see [[👁 Identity]] for web3-related identity mechanics.
 
 Articles:

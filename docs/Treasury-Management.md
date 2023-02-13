@@ -1,3 +1,4 @@
+# 💰 Treasury Management
 
 # Multisig tools
 - [Gnosis Safe](https://gnosis-safe.io/)

@@ -1,3 +1,4 @@
+# 👥 Sybil Attacks, KYC
 
 # Sybil attatcks
 - [Characterizing the Sybil Resistance Problem](https://gov.gitcoin.co/t/characterizing-the-sybil-resistance-problem/11235)

@@ -1,3 +1,5 @@
+# 🐵 NFT Analytics
+
 # Volumes
 - Most [NFT Marketplaces](NFT-Marketplace) have good data
 - [DefiLlama NFT Rankings](https://defillama.com/nfts)
