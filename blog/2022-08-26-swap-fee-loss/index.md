@@ -3,7 +3,7 @@ slug: balancer-swap-fee-loss
 title: Swap Fee Loss in Balancer's Asymmetric Pools
 authors: [peeledkot]
 tags: [balancer]
-image: https://wiki-7ff.pages.dev/assets/images/farm-fresh-liquidity-4b0b04a715b0f0400b333f51f1ac5dc5.jpg
+image: https://wiki-7ff.pages.dev/assets/images/swap-fee-loss-38615a46d7d6a437f80ae2edd177d5a6.jpg
 ---
 
 In this article, we’ll discover how much swap fees asymmetric LPs generate when compared to symmetric ones. This is important when calculating incentive rewards for such pools.
