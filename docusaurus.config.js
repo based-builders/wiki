@@ -47,6 +47,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'renewal',
+        content:
+          'Another renewal, this seems to be the best framework yet. Join the <a target="_blank" rel="noopener noreferrer" href="https://t.me/basedbuilders">telegram news channel</a>!',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: true,
+      },
       colorMode: { respectPrefersColorScheme: true, },
       docs: { sidebar: { hideable: true, autoCollapseCategories: true, }, },
       image: 'img/docusaurus-social-card.jpg',
