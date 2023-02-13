@@ -62,15 +62,11 @@ const sidebars = {
     'Community-Tools',
   ],
   metaverseSidebar: [
-    {
-      type: 'category', label: 'Identity', items: [
-        'Identity',
-        'Brands-Creator-Economy',
-        'Social-Media',
-        'Messaging',
-        'Collaboration-Virtual-Worlds',
-      ]
-    },
+    'Identity',
+    'Brands-Creator-Economy',
+    'Social-Media',
+    'Messaging',
+    'Collaboration-Virtual-Worlds',
   ],
   aiSidebar: [
     {
@@ -104,16 +100,6 @@ const sidebars = {
       type: 'category',
       label: '🏴‍☠️ Piracy',
       link: { type: 'doc', id: 'Piracy-Open-Content' },
-      items: [
-
-      ]
-    },
-  ],
-  osintSidebar: [
-    {
-      type: 'category',
-      label: '🔎 OSINT',
-      link: { type: 'doc', id: 'OSINT' },
       items: [
 
       ]
@@ -164,6 +150,7 @@ const sidebars = {
     'Economics',
     'Fundamentals-DYOR',
     'Technicals-Charts',
+    'OSINT'
   ],
   jobsSidebar: [
     'Hackathons-Grants-VCs',
@@ -171,8 +158,10 @@ const sidebars = {
     'product-management',
   ],
   useSidebar: [
+    'Crypto-friendly-products-and-services',
     'CEX',
-    'Crypto-friendly-products-and-services'
+    'Public-good-charities',
+    'People-seething-about-crypto'
   ],
   psyopsSidebar: [
     'Community-Building',

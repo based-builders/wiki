@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'based.builders',
-  tagline: 'Wiki about stuff',
+  tagline: 'Wiki about Web3 stuff',
   favicon: 'img/favicon.png',
 
   url: 'https://based.builders',
@@ -30,6 +30,8 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/based-builders/wiki/edit/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: false,
         },
         blog: {
           showReadingTime: true,
@@ -52,7 +54,6 @@ const config = {
         title: 'based.builders',
         logo: {
           alt: 'based.builders logo',
-          //src: 'img/logo.svg',
           src: 'img/romanthing.png',
         },
         items: [
@@ -67,10 +68,9 @@ const config = {
           { type: 'docSidebar', sidebarId: 'devSidebar', position: 'left', label: 'Dev', },
           { type: 'docSidebar', sidebarId: 'jobsSidebar', position: 'left', label: 'Jobs', },
           { type: 'html', position: 'left', value: '///', },
-          { type: 'docSidebar', sidebarId: 'opsecSidebar', position: 'left', label: 'Privacy', },
+          { type: 'docSidebar', sidebarId: 'opsecSidebar', position: 'left', label: 'OpSec', },
           { type: 'docSidebar', sidebarId: 'aiSidebar', position: 'left', label: 'AI Tools', },
           { type: 'docSidebar', sidebarId: 'piracySidebar', position: 'left', label: 'Piracy', },
-          { type: 'docSidebar', sidebarId: 'osintSidebar', position: 'left', label: 'OSINT', },
           { type: 'docSidebar', sidebarId: 'useSidebar', position: 'right', label: 'Use crypto', },
           { type: 'doc', docId: 'Special-Thanks', position: 'right', label: 'Donate', },
           { to: '/blog', label: 'Blog', position: 'right' },
