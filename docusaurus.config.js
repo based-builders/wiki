@@ -43,19 +43,34 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    require.resolve('docusaurus-plugin-image-zoom')
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      zoom: {
+        selector: '.markdown :not(em) > img',
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+          background: {
+            light: 'rgb(255, 255, 255)',
+            dark: 'rgb(50, 50, 50)'
+          }
+        }
+      },
+
       announcementBar: {
         id: 'renewal',
         content:
           'Another renewal, this seems to be the best framework yet. Join the <a target="_blank" rel="noopener noreferrer" href="https://t.me/basedbuilders">telegram news channel</a>!',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
+        backgroundColor: '#ffd60a',
+        textColor: '#000000',
         isCloseable: true,
       },
-      colorMode: { respectPrefersColorScheme: true, },
+      colorMode: { defaultMode: 'dark', },
       docs: { sidebar: { hideable: true, autoCollapseCategories: true, }, },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
