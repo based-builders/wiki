@@ -3,7 +3,9 @@
 ## Infrastructure
 - Domains: [Namecheap](https://www.namecheap.com/) (not anon) — BTC + Altcoins
 - VPN: [Mullvad](https://kycnot.me/service/mullvadvpn) (anon) — BTC + Monero + Altcoins
-- VPS: [Vultr](https://www.vultr.com/) (not anon) —  BTC + Alts
+- VPS:
+	- [BuyVM/Frantech](https://buyvm.net/) (anon) — BTC + Monero + Alts
+	- [Vultr](https://www.vultr.com/) (not anon) —  BTC + Alts
 - Storage: [whatbox](https://whatbox.ca/) (anon) — BTC + Lightning Network
 - Find more at:
 	- [Best Offshore Domain And Hosting Providers](https://cybertoolbank.cc/bullet.html) 
