@@ -13,8 +13,8 @@ const config = {
   url: 'https://based.builders',
   baseUrl: '/',
 
-  //scripts: [{script defer data-domain="based.builders" src="https://plausible.based.builders/js/script.js">}]
-  scripts: [{ src: 'https://plausible.io/js/script.js', defer: true, 'data-domain': 'based.builders' }],
+  //scripts: [{script defer data-domain="based.builders" src="">}]
+  scripts: [{ src: 'https://plausible.based.builders/js/script.js', defer: true, 'data-domain': 'based.builders' }],
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
