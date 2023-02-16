@@ -3,7 +3,7 @@ slug: balancer-farms-suck
 title: Balancer Farms Suck (But We Fixed Them)
 authors: [peeledkot]
 tags: [balancer]
-image: https://wiki-7ff.pages.dev/assets/images/farm-fresh-liquidity-4b0b04a715b0f0400b333f51f1ac5dc5.jpg
+image: ./farm-fresh-liquidity.jpg
 ---
 
 ![If Balancer’s AMM model is so good, why is it lagging so far behind competitors?](farm-fresh-liquidity.jpg)
