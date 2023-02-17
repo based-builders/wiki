@@ -31,6 +31,7 @@ Proprietary:
 # Speech recognition
 [Whisper](https://github.com/openai/whisper) (also see [Show and Tell](https://github.com/openai/whisper/discussions/categories/show-and-tell))
 - [Extension for Davinci Resolve](https://github.com/octimot/StoryToolkitAI)
+- [WAAS](https://github.com/schibsted/WAAS) — GUI and API for OpenAI Whisper
 
 Online Services:
 - [webcaptioner](https://webcaptioner.com/)
