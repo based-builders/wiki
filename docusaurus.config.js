@@ -49,9 +49,32 @@ const config = {
     require.resolve('docusaurus-plugin-image-zoom'),
   ],
 
+  themes: ['docusaurus-theme-search-typesense'],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      typesense: {
+        typesenseCollectionName: 'based-builders',
+
+        typesenseServerConfig: {
+          nodes: [
+            {
+              host: 'search.based.builders',
+              port: 443,
+              protocol: 'https',
+            },
+          ],
+          apiKey: 'h0qcIqYNaZhSnVd1YeiTulE9O7YXSRNf',
+        },
+
+        // Optional: Typesense search parameters: https://typesense.org/docs/0.24.0/api/search.html#search-parameters
+        typesenseSearchParameters: {},
+
+        // Optional
+        contextualSearch: true,
+      },
 
       zoom: {
         selector: '.markdown :not(em) > img',
