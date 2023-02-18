@@ -122,6 +122,7 @@ const config = {
           { type: 'docSidebar', sidebarId: 'useSidebar', position: 'right', label: 'Use crypto', },
           { type: 'doc', docId: 'Special-Thanks', position: 'right', label: 'Donate', },
           { to: '/blog', label: 'Blog', position: 'right' },
+          { href: "https://t.me/basedbuilders", label: "Telegram", position: "right", },
         ],
       },
       footer: {
