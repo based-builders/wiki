@@ -26,7 +26,7 @@
 
 # Botting
 - [40% of crypto games users are bots](https://twitter.com/LevanKvirkvelia/status/1564290386138464256)
-- see [[👥 Sybil Attacks, KYC]]
+- see [👥 Sybil Attacks, KYC](Sybil-Attacks-KYC)
 
 # Game design
 - [A road forward for web3 gaming](https://medium.com/@0xKepler/a-road-forward-for-web3-gaming-e70d82dd19e3)

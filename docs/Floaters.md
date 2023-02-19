@@ -7,4 +7,4 @@ Why? [Article by RAI](https://medium.com/reflexer-labs/stability-without-pegs-8c
 
 Reserve Currencies (aka OHM forks):
 - [Reserve Currency RVL Rankings](https://defillama.com/protocols/Reserve%20Currency)
-- [[Olympus DAO]]
+- [Olympus DAO](Olympus-DAO)

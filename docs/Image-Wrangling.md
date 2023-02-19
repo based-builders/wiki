@@ -126,5 +126,5 @@ text2img, img2img, ...
 
 
 
-[^1]: You can [[🏴‍☠️ Piracy, Open Content|pirate it 🏴‍☠️]]
+[^1]: You can [pirate it](Piracy-Open-Content)
 [^2]:  Rip result images from webpage source code to get them for free

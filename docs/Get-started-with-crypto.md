@@ -27,7 +27,6 @@
 	- [What Are Stablecoins?](https://academy.binance.com/en/articles/what-are-stablecoins)
 - [Finematics](https://finematics.com/)
 - https://github.com/baraldor/defi
-- [[📃 DeFi protocol case studies]]
 
 # TL;DR
 Best way to start understanging DeFi is by using it, learning new things on the way.
@@ -35,7 +34,7 @@ You will make mistakes and lose money in the process, so just start with a small
 
 Probably the most confusing new concept is liquidity pools. Make sure you understand it, as most DeFi relies on Uniswap and its forks.
 
-Go to [[📊 Fundamentals, DYOR]] and click through the popular tools.
+Go to [📊 Fundamentals, DYOR](Fundamentals-DYOR) and click through the popular tools.
 
 ### To-Do list to get familiar with DeFi:
 
@@ -134,8 +133,6 @@ If a dapp has huge TVL, it means that a lot of people trust it, and it can proba
 #### 9. Try trading risky tokens
 
 Farming with stablecoins or big coins like BTC and ETH is cool and safe, but you probably read news about people making millions in days.
-
-Where do people find out about these new projects? Check links to news sources in other sections of this page, as well as on [[📚 Other crypto sources]]. Most talk is on Twitter, Telegram chats, and Discord servers.
 
 Hundreds of new projects pop up every day, most of them scams.
 The most popular scam mechanics are:

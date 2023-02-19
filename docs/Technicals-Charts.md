@@ -18,7 +18,7 @@
 # Technical analysis
 
 - [Technical Analysis: What It Is and How to Use It in Investing](https://www.investopedia.com/terms/t/technicalanalysis.asp)
-- [CryptoCred Technical Analysis Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit) [[cryptocred technical analysis lessons|mirror if it goes down]]
+- [CryptoCred Technical Analysis Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit) [mirror if it goes down](cryptocred-technical-analysis-lessons)
 
 In general, technical analysts look at the following broad types of indicators:
 -   Price trends

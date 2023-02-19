@@ -19,7 +19,7 @@ Resolvers:
 - [eth.limo](https://eth.limo/) ([vitalik.eth.limo](https://vitalik.eth.limo/))
 - Brave browser resolves .eth links natively
 
-Many [[👁 Identity#Web Profile|web3 profiles]] use ENS
+Many [web3 profiles](Identity#social-profile) use ENS
 
 # Not ENS
 - [Unstoppable domains](https://unstoppabledomains.com/) (.crypto .nft .x .wallet .bitcoin .dao .888 .zil .blockchain)

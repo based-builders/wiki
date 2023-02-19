@@ -25,7 +25,7 @@ Stats:
 - [Paxos](https://paxos.com/) (USDP, PAXG, BUSD)
 
 # Collateral backed stablecoins
-- [[MakerDAO]] / DAI 
+- [MakerDAO](MakerDAO) / DAI 
 - Liquity / LUSD [liquity.org](https://liquity.org/) ([Docs](https://docs.liquity.org/), [Whitepaper](https://docsend.com/view/bwiczmy))
 	- [Explanation thread](https://twitter.com/FrogsAnon/status/1570499967923679232) september 2022
 	- [Article on DefiLlama wiki](https://wiki.defillama.com/wiki/Liquity)
@@ -58,4 +58,4 @@ Explicitly rely on other stablecoins as primitives
 
 ---
 
-also see [[🎈 Floaters]], [[🛢️ Synthetics]], [[🍬 Wrapped]]
+also see [🎈 Floaters](Floaters), [🛢️ Synthetics](Synthetics), [🍬 Wrapped](Wrapped)
