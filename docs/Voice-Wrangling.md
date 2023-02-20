@@ -18,7 +18,7 @@ Proprietary:
 - [Uberduck](https://uberduck.ai/)
 
 # Real-time Voice Morphing
-- [Koe Recast](https://koe.ai/)
+- [Koe Recast](https://koe.ai/) desktop app
 - [voice.ai](https://voice.ai/)
 - [Voicemod](https://www.voicemod.net/)
 - [NyVox](https://www.nyvox.net/)

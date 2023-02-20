@@ -12,23 +12,22 @@ text2img, img2img, ...
 
 ## text2img
 - AUTOMATIC1111
-- Special models:
-	- [civitai.com](https://civitai.com/) has lots of fine-tuned models
-	- [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4) works best with anime and other cartoon art
-		- [Danbooru style prompting](https://gist.github.com/harubaru/f727cedacae336d1f7877c4bbe2196e1#prompting)
+- [civitai.com](https://civitai.com/) has lots of fine-tuned models
+- [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4) works best with anime and other cartoon art
+	- [Danbooru style prompting](https://gist.github.com/harubaru/f727cedacae336d1f7877c4bbe2196e1#prompting)
 
-## img2img
-- AUTOMATIC1111
-- Special models:
+
+## Guided
+- inpainting ([demo](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest)):
+	- [How to make any model into an inpainting model](https://discord.com/channels/1037799583784370196/1066431771069140992) (Civitai discord post)
+- img2img models:
 	- [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)
 	- [depth2img](https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/5542) (better than depth2mask)
-		- works best with 3D art or photos
-- Tip: use [Blender](https://www.blender.org/) to create simple 3D scenes to use in img2img
-
-## Inpainting
-- AUTOMATIC1111
-- [diffuse-the-rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest)
-- [How to make any model into an inpainting model](https://discord.com/channels/1037799583784370196/1066431771069140992) (Civitai discord post)
+		- Tip: use [Blender](https://www.blender.org/) to create simple 3D scenes
+	- [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐
+		- [A1111 extension for ControlNet](https://github.com/Mikubill/sd-webui-controlnet)
+		- [Pose redactor](https://github.com/fkunn1326/openpose-editor) ([demo](https://huggingface.co/spaces/jonigata/PoseMaker)) for skeleton model
+	
 
 ## Prompt inspiration
 - Tools
@@ -66,6 +65,7 @@ text2img, img2img, ...
 	- Hypernetwork = extra layers (different filesize) = a filter on top of another model
 	- Dreambooth = checkpoint (>2gb) or LoRA (different filesize) = model fine-tuned on instance token
 	- Fine-tuning = checkpoint (>2gb) = model fine-tuned on many tokens
+	- LoRA is both small and powerful so use that most of the time
 - Create and use:
 	- Textual Inversion:
 		- [Create and use embeddings in AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)
@@ -74,14 +74,12 @@ text2img, img2img, ...
 		- [Tutorial Hypernetwork - Monkeypatch method](https://civitai.com/models/4086)
 	- DreamArtist (best one-shot?):
 		- [DreamArtist-sd-webui-extension](https://github.com/7eu7d7/DreamArtist-sd-webui-extension)
-	- Aesthetic gradient:
-		- [stable-diffusion-webui-aesthetic-gradients](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients) ([original repo](https://github.com/vicgalle/stable-diffusion-aesthetic-gradients))
 	- Dreambooth:
 		- [sd_dreambooth_extension](https://github.com/d8ahazard/sd_dreambooth_extension)
 		- [stable-diffusion-dreambooth-colab](https://github.com/camenduru/stable-diffusion-dreambooth-colab)
 		- [Make better Dreambooth style models by using captions](https://old.reddit.com/r/StableDiffusion/comments/zcr644/make_better_dreambooth_style_models_by_using/)
 		- [LoRA](https://rentry.org/lora_train)
-	- Fine-tuning:
+	- General fine-tuning:
 		- [EveryDream](https://github.com/victorchall/EveryDream2trainer)
 - Find:
 	- [civitai.com](https://civitai.com/) has lots of embeddings and hypernetworks
