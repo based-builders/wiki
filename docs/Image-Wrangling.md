@@ -27,6 +27,8 @@ text2img, img2img, ...
 	- [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐
 		- [A1111 extension for ControlNet](https://github.com/Mikubill/sd-webui-controlnet)
 		- [Pose redactor](https://github.com/fkunn1326/openpose-editor) ([demo](https://huggingface.co/spaces/jonigata/PoseMaker)) for skeleton model
+- combined workflows:
+	- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ([examples](https://comfyanonymous.github.io/ComfyUI_examples/))
 	
 
 ## Prompt inspiration
