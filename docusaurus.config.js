@@ -102,7 +102,7 @@ const config = {
         title: 'based.builders',
         logo: {
           alt: 'based.builders logo',
-          src: 'img/romanthing.png',
+          src: 'img/outlined.png',
         },
         items: [
           { type: 'html', position: 'left', value: '///', },
