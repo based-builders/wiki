@@ -15,7 +15,8 @@
 ### Study cases
 - [Aave](Aave)
 - Compound
-	- the most forked 
+	- it's the most forked lending protocol 
+	- [architecture overview](https://twitter.com/bytes032/status/1645716760732082176)
 - [Curve](Curve)
 
 

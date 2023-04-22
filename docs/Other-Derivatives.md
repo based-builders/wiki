@@ -12,6 +12,7 @@ Tokenized Leverage
 
 Bet on stablecoin unpeg
 - [y2k.finance](https://www.y2k.finance/)
+	- https://twitter.com/0xShinChannn/status/1632368918328414213
 
 Interest Rate Derivatives
 - [IPOR](https://www.ipor.io/) ([A Look at IPOR](https://medium.com/deus-ex-dao/a-look-at-ipor-60fb6f60ce59))

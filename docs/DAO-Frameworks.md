@@ -6,6 +6,7 @@
 - [OpenZeppelin Governor](https://docs.openzeppelin.com/contracts/4.x/api/governance#governor)
 - [Compound Governor](https://docs.compound.finance/v2/governance/)
 - [Curve Voting Escrow](https://resources.curve.fi/governance/vote-locking-boost)
+- [off-chain voting with on-chain execution using optimistic oracle](https://twitter.com/UMAprotocol/status/1626264754124914688)
 
 ## No-code on-chain DAO creation
 - [Zodiac governor mod](https://twitter.com/GnosisGuild/status/1603794129741352960) turn a Gnosis Safe multisig into a real DAO with on-chain voting 

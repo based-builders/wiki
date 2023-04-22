@@ -4,11 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Library',
+    title: 'Wiki',
     Svg: require('@site/static/img/fallen-leaf.svg').default,
     description: (
       <>
-        based.builders is a wiki about web3 stuff, mainly used for internal education
+        This is a library about web3 stuff.
+        Follow selected updates <a href="https://t.me/based_builders">on Telegram</a>
       </>
     ),
   },
@@ -17,16 +18,16 @@ const FeatureList = [
     Svg: require('@site/static/img/sunflower.svg').default,
     description: (
       <>
-        based.builders is a full-stacked team of web3 developers, ready to help you with your project
+        We are a team of developers and researchers, ready to help you with your project
       </>
     ),
   },
   {
-    title: 'Research',
+    title: 'Projects',
     Svg: require('@site/static/img/pencil.svg').default,
     description: (
       <>
-        based.builders is a blog and youtube channel, we can review and reseach projects for your conveniece
+        We have <a href="/blog">a blog</a> and other projects (soon), check them out
       </>
     ),
   },

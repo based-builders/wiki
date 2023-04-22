@@ -4,6 +4,7 @@
 > Real estate, synthetic assets, agriculture, insurance and much more
 
 - [Huge report on Real World Assets](https://twitter.com/jackchong_jc/status/1574745695654797312) ⭐️September 2022
+- [state of Real World Assets (RWA) in defi](https://twitter.com/DefiIgnas/status/1617799994903523331) january 2022
 - [RWA TVL Rankings](https://defillama.com/protocols/RWA)
 - [rwa.xyz](https://www.rwa.xyz/)
 

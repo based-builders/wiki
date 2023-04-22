@@ -1,9 +1,9 @@
 # 🌉 Bridges
 ## Analytics
-[Bridges Volume on DefiLlama](https://defillama.com/bridges)
-[Bridges Inflows by Chain on DefiLlama](https://defillama.com/bridges/chains)
-[Cross-chain protocols TVL Rankings](https://defillama.com/protocols/Cross%20Chain)
-[Bridge TVL Rankings](https://defillama.com/protocols/Bridge)
+- [Bridges Volume on DefiLlama](https://defillama.com/bridges)
+- [Bridges Inflows by Chain on DefiLlama](https://defillama.com/bridges/chains)
+- [Cross-chain protocols TVL Rankings](https://defillama.com/protocols/Cross%20Chain)
+- [Bridge TVL Rankings](https://defillama.com/protocols/Bridge)
 
 ## Bridge aggregation
 - [transferto.xyz](https://transferto.xyz/) (aka li.fi)
@@ -21,6 +21,7 @@ Some bridges can help get you gas on chains where you have none yet.
 
 ---
 ## Resources
+- [bridge ecosystem](https://twitter.com/OvrCldJonny/status/1623656727173529601)
 - [A Comprehensive Overview of Security and Trust Assumptions in Blockchain Bridges](https://maven11.substack.com/p/horatius-at-the-bridge)
 - [Socket.tech](https://socket.tech/)
 - [Bridging Tokens & Data](https://ethglobal.com/guides/bridging-tokens-and-data-adzmk) by Connext

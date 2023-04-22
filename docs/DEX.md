@@ -16,6 +16,7 @@
 - [Sushi](Sushi) stableswap
 - [Trader Joe](Trader-Joe) liquidity book
 - [Velodrome](Velodrome) ve(3,3)
+	- https://ethropy.substack.com/p/samson-dex-renaming-ve33-and-solidly
 - [Dodo](Dodo) proactive market maker
 - Bancor
 
@@ -23,6 +24,7 @@ Research:
 - [DEX with AMM Protocols](https://berkeley-defi.github.io/assets/material/DEX%20with%20AMM%20Protocols.pdf) by UC Berkley ⭐️
 - https://github.com/0xperp/awesome-amm
 - https://defillama.com/dexs
+- [math overview of AMM algorithms](https://medium.com/anchordao-lab/automated-market-maker-amm-algorithms-and-its-future-f2d5e6cc624a)
 
 # DEX Aggregator + Order book
 - [1inch](1inch)
@@ -38,6 +40,9 @@ Articles:
 # Oracle based
 - [Platypus Finance](http://platypus.finance) ([Article on DefiLlama wiki](https://wiki.defillama.com/wiki/Platypus_Finance))
 	- [USP stablecoin](https://twitter.com/DefiIgnas/status/1598219389790171137)
+
+# TWAMM (Time Weighted Average Market Makers)
+- https://twitter.com/0xCodeSherpa/status/1630880519021006848
 
 ---
 

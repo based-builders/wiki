@@ -62,6 +62,20 @@ const sidebars = {
     'Community-Tools',
   ],
   metaverseSidebar: [
+    {
+      type: 'category', label: 'NFTfi', link: { type: 'generated-index', }, items: [
+        'NFT-Marketplace',
+        'NFT-Lend-and-Rent',
+        'NFT-Case-Studies',
+        'NFT-Analytics',
+      ]
+    },
+    {
+      type: 'category', label: 'GameFi', link: { type: 'generated-index', }, items: [
+        'Gaming',
+        'Gambling-Prediction-Markets'
+      ]
+    },
     'Identity',
     'Brands-Creator-Economy',
     'Social-Media',
@@ -168,22 +182,6 @@ const sidebars = {
     'SMM-Onboarding-Metrics',
     'Marketing',
     'Memetics-Psyops',
-  ],
-  nftSidebar: [
-    {
-      type: 'category', label: 'NFTfi', link: { type: 'generated-index', }, items: [
-        'NFT-Marketplace',
-        'NFT-Lend-and-Rent',
-        'NFT-Case-Studies',
-        'NFT-Analytics',
-      ]
-    },
-    {
-      type: 'category', label: 'GameFi', link: { type: 'generated-index', }, items: [
-        'Gaming',
-        'Gambling-Prediction-Markets'
-      ]
-    },
   ],
 };
 

@@ -7,6 +7,7 @@ Articles:
 ### Yield Optimizers
 - [Yield Aggregator TVL Rankings](https://defillama.com/protocols/Yield%20Aggregator)
 - Yearn ([article on DefiLlama wiki](https://wiki.defillama.com/wiki/Yearn_Finance))
+	- [defi strategies simulator](https://twitter.com/0xDoing/status/1632883300510453763)
 - Beefy Finance
 
 ### Pool APR Trackers

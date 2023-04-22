@@ -17,6 +17,7 @@ Stats:
 - [Collateral backed stablecoins TVL Rankings](https://defillama.com/protocols/CDP)
 - [stablecoins.wtf](https://stablecoins.wtf/)
 - [Stablecoin Monitor](https://dune.com/21shares_research/stablecoin-monitor)
+- [stablecoin peg monitor](https://dune.com/a7o/stablecoin-peg-monitor)
 
 # Custodial stablecoins
 - [Tether](https://tether.to/) (USDT, EURT, XAUt) ([critique](https://www.youtube.com/watch?v=-whuXHSL1Pg))
@@ -28,6 +29,7 @@ Stats:
 - [MakerDAO](MakerDAO) / DAI 
 - Liquity / LUSD [liquity.org](https://liquity.org/) ([Docs](https://docs.liquity.org/), [Whitepaper](https://docsend.com/view/bwiczmy))
 	- [Explanation thread](https://twitter.com/FrogsAnon/status/1570499967923679232) september 2022
+	- [Thread](https://twitter.com/0xsurferboy/status/1636306346567151616) march 2023
 	- [Article on DefiLlama wiki](https://wiki.defillama.com/wiki/Liquity)
 - Abracadabra / MIM [abracadabra.money](https://abracadabra.money/) ([Docs](https://docs.abracadabra.money/))
 - MAI [mai.finance](https://mai.finance/) ([Docs](https://docs.mai.finance/), [Video starting from 3:36:15](https://www.youtube.com/watch?v=vKLbovJzmmA), [Analytics](https://cryptorisks.substack.com/p/asset-risk-assessment-qidao))
@@ -51,7 +53,7 @@ Most are dead
 - [Jarvis](https://jarvis.network/) ([Docs](https://learn.jarvis.network/))
 
 # Stablecoin mixes
-Explicitly rely on other stablecoins as primitives
+Rely on other stablecoins as primitives
 
 - [mStable](http://mstable.org/) ([Docs](https://docs.mstable.org/))
 - [OUSD](https://www.ousd.com/) ([Docs](https://docs.ousd.com/v/en/))

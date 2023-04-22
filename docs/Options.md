@@ -15,6 +15,7 @@
 
 # Analytics
 - [Options protocols TVL Rankings](https://defillama.com/protocols/Options)
+- [how to interpret options market data](https://twitter.com/thiccythot_/status/1625088347134623744)
 
 # Studies
 
